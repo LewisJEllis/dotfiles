@@ -13,11 +13,13 @@
     "no-use-before-define": 2,
     "no-redeclare": 2,
     "no-inner-declarations": 'both',
+    "no-unused-vars": [2, {"vars": 'all', "args": 'after-used'}],
     "no-floating-decimal": 2,
     "no-spaced-func": 2,
     "no-extra-parens": 1,
     "no-warning-comments": [1, {"terms": ['todo', 'fix'], "location": 'anywhere'}],
     "no-underscore-dangle": 0,
+    
     "strict": 0
   },
 
