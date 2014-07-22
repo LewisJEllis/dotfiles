@@ -1,4 +1,6 @@
 dotfiles
 ========
-- .eslintrc
-- More later
+- Bash profile
+- OSX settings
+- Sublime settings
+- ESLint policy
